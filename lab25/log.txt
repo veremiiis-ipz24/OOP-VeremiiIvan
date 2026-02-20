@@ -1,0 +1,2 @@
+[File] Strategy: Encrypt, Result: niagA olleH
+[File] Strategy: Compress, Result: HelloWorldAgain
