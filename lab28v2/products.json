@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Price": 1200,
+    "Category": {
+      "Id": 1,
+      "Name": "Electronics"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "C# Programming Book",
+    "Price": 40,
+    "Category": {
+      "Id": 2,
+      "Name": "Books"
+    }
+  }
+]
